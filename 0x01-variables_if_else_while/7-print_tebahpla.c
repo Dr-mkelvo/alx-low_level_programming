@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-* main - Print the alphabet in lowercase letters in reverse
+* main - #Task: Print alphabets in lowercase in reverse(z-a)
 *
 * Return: Always 0 (Success)
 */
