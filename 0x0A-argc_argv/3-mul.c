@@ -6,7 +6,7 @@
  * @argc: argument count
  * @argv: arguments
  *
- * Return: 0
+ * Return: 0 Always sucess
  */
 int main(int argc, char **argv)
 {
